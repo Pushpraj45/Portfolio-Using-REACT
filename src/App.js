@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import { About } from './components/About';
 import Project from './components/Project';
-// import Testimonial from './components/Testimonial';
 import ContactUs from './components/ContactUs';
 import Resume from './components/resume';
 import { useState } from 'react';
